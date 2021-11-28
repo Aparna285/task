@@ -9,3 +9,6 @@ write the  code for rectangle
 
 
 write the code for triange
+
+
+write the code for square
