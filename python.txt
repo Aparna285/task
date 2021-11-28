@@ -1,0 +1,11 @@
+
+
+welcome to git
+
+now i write python program
+
+
+write the  code for rectangle
+
+
+write the code for triange
