@@ -12,3 +12,6 @@ write the code for triange
 
 
 write the code for square
+
+
+that's it. 
