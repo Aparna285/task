@@ -12,3 +12,8 @@ write the code for triange
 
 
 write the code for square
+
+
+write the code for circle
+write the code for right angle triangle
+
